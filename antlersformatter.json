@@ -1,0 +1,9 @@
+{
+    "htmlOptions": {},
+    "formatFrontMatter": true,
+    "insertSpaces": false,
+    "maxStatementsPerLine": 3,
+    "tabSize": 4,
+    "formatExtensions": [".antlers.html"]
+}
+
